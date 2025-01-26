@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malku\\COMSCI_201\\Week1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28B30586-2138-4997-9154-BC864F1E7DFD}|Week1\\Week1.vcxproj|C:\\Users\\malku\\COMSCI_201\\Week1\\Week1\\Week1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28B30586-2138-4997-9154-BC864F1E7DFD}|Week1\\Week1.vcxproj|solutionrelative:Week1\\Week1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 526,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Week1.cpp",
+              "DocumentMoniker": "C:\\Users\\malku\\COMSCI_201\\Week1\\Week1\\Week1.cpp",
+              "RelativeDocumentMoniker": "Week1\\Week1.cpp",
+              "ToolTip": "C:\\Users\\malku\\COMSCI_201\\Week1\\Week1\\Week1.cpp",
+              "RelativeToolTip": "Week1\\Week1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-21T22:48:36.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
