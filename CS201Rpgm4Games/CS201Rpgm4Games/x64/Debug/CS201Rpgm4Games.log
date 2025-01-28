@@ -1,0 +1,5 @@
+﻿  CS201Rpgm4Games.cpp
+C:\Users\malku\COMSCI_201\CS201Rpgm4Games\CS201Rpgm4Games\CS201Rpgm4Games.cpp(23,6): warning C4101: 'die1': unreferenced local variable
+C:\Users\malku\COMSCI_201\CS201Rpgm4Games\CS201Rpgm4Games\CS201Rpgm4Games.cpp(23,12): warning C4101: 'die2': unreferenced local variable
+C:\Users\malku\COMSCI_201\CS201Rpgm4Games\CS201Rpgm4Games\CS201Rpgm4Games.cpp(125,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CS201Rpgm4Games.vcxproj -> C:\Users\malku\COMSCI_201\CS201Rpgm4Games\x64\Debug\CS201Rpgm4Games.exe
